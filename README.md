@@ -35,6 +35,11 @@ pnpm dev
 - Local mock data with browser persistence for demo use
 - Presentation-ready municipal dark UI
 
+## Helpful guide
+
+- `PROJECT_CHEAT_SHEET.md`
+  Beginner-friendly guide for common edits and common university presentation questions
+
 ## Main app files
 
 - `src/main.jsx`
